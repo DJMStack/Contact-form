@@ -34,8 +34,8 @@ h1 {
 }
 
 textarea{
-    max-width: 60em;
-    min-width: 60em;
+    max-width: 30vw;
+    min-width: 40vw;
     max-height: 30em;
     min-height: 30em; 
     
