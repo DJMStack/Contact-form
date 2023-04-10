@@ -38,7 +38,6 @@ textarea{
     min-width: 40vw;
     max-height: 30em;
     min-height: 30em; 
-    
 }
 
 form {
@@ -54,7 +53,6 @@ fieldset {
 }
 
 .form-content {
-
     margin:  10em auto;
     height: 30em;
 
